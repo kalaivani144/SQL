@@ -1,8 +1,3 @@
-# SQL
-Here’s a complete **Task 3 Summary** you can include in your `README.md` or presentation for GitHub or class submission:
-
----
-
 ## 📊 Task 3: SQL for Data Analysis – Summary
 
 ### 🎯 Objective:
