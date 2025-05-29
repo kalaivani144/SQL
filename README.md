@@ -62,7 +62,9 @@ Four tables were created:
 4. Or open the PDF report directly for output previews
 [SQLite_Analysis_Report.pdf](https://github.com/user-attachments/files/20508848/SQLite_Analysis_Report.pdf)
 [SQLite_Project_For_GitHub.zip](https://github.com/user-attachments/files/20508855/SQLite_Project_For_GitHub.zip)
-![sql 1](https://github.com/user-attachments/assets/51ae3e55-cf37-445a-a002-8bbcb649b81d)
+
+
+CODING:
 
 DROP TABLE IF EXISTS order_items;
 DROP TABLE IF EXISTS orders;
@@ -162,6 +164,7 @@ SELECT * FROM customer_sales;
 -- Step 11: Create INDEX
 CREATE INDEX idx_orders_customer_id ON orders(customer_id);
 t.sql…]()
+![sql 1](https://github.com/user-attachments/assets/51ae3e55-cf37-445a-a002-8bbcb649b81d)
 ![sql 2](https://github.com/user-attachments/assets/7a75318d-a28a-45c4-937b-f5662e234ada)
 ![sql 3](https://github.com/user-attachments/assets/fe747a0c-2eb9-47ac-b625-819d89456fdd)
 ![sql 4](https://github.com/user-attachments/assets/542d3212-0f54-4eca-afff-8292a3f1ac45)
